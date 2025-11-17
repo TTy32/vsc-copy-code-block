@@ -1,5 +1,5 @@
 {
-  "name": "vsc-code-block-copier",
+  "name": "vsc-code-block-copier-fork",
   "displayName": "Code Block Copier (Fork)",
   "description": "Copy code blocks with line numbers and file paths for documentation and sharing",
   "version": "0.0.4",
