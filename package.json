@@ -1,12 +1,15 @@
 {
   "name": "vsc-code-block-copier",
-  "displayName": "Code Block Copier",
+  "displayName": "Code Block Copier (Fork)",
   "description": "Copy code blocks with line numbers and file paths for documentation and sharing",
   "version": "0.0.4",
-  "publisher": "dumitory-dev",
+  "publisher": "RandyWijnants",
   "private": false,
   "license": "MIT",
-  "author": "dumitory-dev",
+  "author": "Randy Wijnants",
+  "contributors": [
+    { "name": "dumitory-dev", "url": "https://github.com/dumitory-dev" }
+  ],
   "engines": {
     "vscode": "^1.90.0"
   },
@@ -32,12 +35,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dumitory-dev/vsc-copy-code-block.git"
+    "url": "git+https://github.com/TTy32/vsc-copy-code-block"
   },
   "bugs": {
-    "url": "https://github.com/dumitory-dev/vsc-copy-code-block/issues"
+    "url": "https://github.com/TTy32/vsc-copy-code-block/issues"
   },
-  "homepage": "https://github.com/yourusername/vsc-code-block-copier#readme",
+  "homepage": "https://github.com/TTy32/vsc-copy-code-block#readme",
   "activationEvents": [],
   "main": "./dist/extension.js",
   "contributes": {

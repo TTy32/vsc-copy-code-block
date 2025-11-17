@@ -1,3 +1,9 @@
+
+This is a fork of [dumitory-dev/vsc-copy-code-block](https://github.com/dumitory-dev/vsc-copy-code-block).
+
+Original project appears unmaintained: this fork adds a few features.
+
+
 # Code Block Copier ✂️
 
 A VS Code extension that lets you copy code blocks with line numbers, file paths, and preserved formatting — perfect for sharing snippets in documentation, chats, or pull requests.
